@@ -1,0 +1,10 @@
+*/template
+Output/*
+Output/*.hex
+*.bak
+*.scvd
+*.ini
+*.hp
+*.uvoptx
+*DebugConfig/  
+*OBJ/

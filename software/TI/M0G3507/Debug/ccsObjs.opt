@@ -1,0 +1,13 @@
+"./main.o"
+"./ti_msp_dl_config.o"
+"./startup_mspm0g350x_ticlang.o"
+"./KEY/Delay.o"
+"./KEY/JY61P.o"
+"./KEY/control_two.o"
+"./KEY/key.o"
+"./MOTOR/motor.o"
+"./OLED/oled.o"
+"./PID/pid.o"
+-l"./device_linker.cmd"
+-ldevice.cmd.genlibs
+-llibc.a
